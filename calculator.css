@@ -1,0 +1,15 @@
+.button{
+    font-family:'Orbitron', sans-serif;
+    background-color: deeppink;
+    color: bisque;
+    border: solid black 0.5px;
+    width: 80px;
+    border-radius: 5px;
+    height: 60%;
+    outline: none;
+    border:none;
+    font-size: 30px;
+    cursor:pointer;
+
+}
+    
